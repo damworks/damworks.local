@@ -29,7 +29,7 @@
 		<![endif]-->
     </head>
     <body>
-		<?php include_once("php/analyticstracking.php") ?>
+		<?php //include_once("php/analyticstracking.php") ?>
 		<table class="doc-loader">
             <tr>
                 <td>
