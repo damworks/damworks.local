@@ -47,7 +47,7 @@
 					<div class="summary">
 						Web apps and<br />business solutions					
 					</div>
-					<div class="summary-small m-top-25 m-bottom-45">We are a small group of creators. Bright ideas for your business. Websites, applications, logos, print <span class="italic">and much more..</span>
+					<div class="summary-small m-top-25 m-bottom-45">Bright ideas for your business. Websites, applications, logos, print <span class="italic">and much more..</span>
 					</div>
 				</div>
 				<img src="images/main_image_.png" class="main-image" alt="image_main" />
@@ -125,7 +125,7 @@
 			<div class="clear"></div>
 			<div class="copyright">
 				<p>
-					&copy; Copyright 2013 <img src="images/dam_.png" alt="DamWorks.com" />
+					&copy; Copyright 2020 <img src="images/dam_.png" alt="DamWorks.com" />
 				</p>
 			</div>
 		</div>    
